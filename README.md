@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on:Women's Safety Application<br>🌱 I’m currently learning:React Native<br>📫 How to reach me: anishka022@gmail.com<br>😄 Pronouns: She/Her<br>
+🔭 I’m currently working on: Personal Portfolio <br>🌱 I’m currently learning: Next.js <br>📫 How to reach me: anishka022@gmail.com<br>😄 Pronouns: She/Her<br>
 
 
 ## 🌐 Socials:
